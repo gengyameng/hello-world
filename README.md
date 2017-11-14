@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi! YaMeng
+I like python and Js
